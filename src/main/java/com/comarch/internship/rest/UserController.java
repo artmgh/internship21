@@ -2,6 +2,7 @@ package com.comarch.internship.rest;
 
 import com.comarch.internship.data.User;
 import com.comarch.internship.data.UserDto;
+import com.comarch.internship.service.UserService;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

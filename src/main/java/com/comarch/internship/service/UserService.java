@@ -1,4 +1,4 @@
-package com.comarch.internship.rest;
+package com.comarch.internship.service;
 
 import com.comarch.internship.data.User;
 import org.springframework.stereotype.Service;
